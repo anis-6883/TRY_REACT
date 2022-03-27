@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "My First Post",
+      "body": "This is my first post.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "body": "This is my second post."
+    },
+    {
+      "title": "JSON Server",
+      "body": "et a full fake REST API with zero coding in less than 30 seconds (seriously)\nCreated with <3 for front-end developers who need a quick back-end for prototyping and mocking.\nEgghead.io free video tutorial - Creating demo APIs with JSON-server\nJSONPlaceholder - Live running version\nMy JSON Server - no installation required, use your data",
+      "id": 5
+    },
+    {
+      "title": "Fetch API",
+      "body": "API call using JavaScript FetchAPI context...🚀",
+      "id": 6
+    },
+    {
+      "title": "REACT AXIOS",
+      "body": "In this video, we are going to learn about How to set up the JSON-server for our fake APIs and use React Axios package to perform HTTP Requests in react. We will follow the RESTful API convention (GET, POST, PUT, DELETE) and see how easily we do CREATE, READ, UPDATE",
+      "id": 8
+    }
+  ]
+}
